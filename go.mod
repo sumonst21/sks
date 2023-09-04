@@ -16,5 +16,5 @@ require (
 	github.com/google/btree v1.0.0 // indirect
 	github.com/google/certtostore v0.0.0-20210722184506-b20658cb17cd // indirect
 	github.com/google/logger v1.1.1 // indirect
-	golang.org/x/sys v0.0.0-20210426230700-d19ff857e887 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
